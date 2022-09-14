@@ -1,0 +1,475 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif !important;
+}
+
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a {
+    padding-bottom: 0px ;
+}
+
+.gdlr-logo {
+	margin: 0;
+}
+
+.gdlr-header-inner{
+	padding:15px 0px;
+}
+
+.gdlr-navigation-wrapper {
+    margin-top: 25px;
+}
+
+div#gdlr-navigation-gimmick.gdlr-pos-bottom {
+    bottom: auto;
+    top: 0 !important;
+}
+
+.home-banner-new .banner-hdg {
+    position: relative;
+    display: table;
+    margin: auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.home-banner-new .banner-hdg:after{
+	content: "";
+    display: block;
+    width: 80%;
+    height: 2px;
+    background: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+
+.home-banner-new .banner-hdg h1{
+    margin:0px;
+	font-size: 28px;
+    color: #fff;
+    font-weight: 600;
+	font-family: 'Lato', sans-serif !important;
+}
+
+.footer-wrapper .footer-column h3.gdlr-widget-title ,
+.footer-wrapper .footer-column .hdg{
+	margin: 0px 0px 25px;
+    color: #fffdfd;
+    font-size: 20px;
+	text-transform: capitalize;
+	font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+
+.footer-wrapper .footer-column .des a{
+	margin-right:15px;
+}
+
+footer .copyright-wrapper .des{
+	color: #fffdfd;
+    text-align: center;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+footer .copyright-wrapper ul{
+	display: table;
+    margin: 0 auto;
+    padding: 0px;
+    list-style: none;
+}
+
+footer .copyright-wrapper ul li{
+	float: left;
+    padding-right: 10px;
+    margin-right: 10px;
+    border-right: solid 1px #fffdfd;
+}
+
+footer .copyright-wrapper ul li:last-child{
+	border:none;
+}
+
+footer .copyright-wrapper ul li a{
+	color: #fffdfd;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.top-names .deals {
+    font-size: 20px;
+    color: #fffdfd;
+    text-align:center;
+    margin: 0;
+}
+
+.top-names .main-hdg .hdg {
+    color: #fffdfd;
+}
+
+.top-names .main-hdg:after {
+    background: #fffdfd;
+}
+
+.news .parts .parts-inner {
+	box-shadow: 0px 0px 5px 2px rgba(0, 0, 0, 0.12);
+    background: #fbfafa;
+	margin-bottom:50px;
+}
+
+.news .parts .parts-inner .top img{
+	width:100%;
+}
+
+.news .parts .parts-inner .btm{
+	padding:20px 20px 35px;
+}
+
+.news .parts .parts-inner .btm .blk-hdg{
+	color: #040404;
+    font-size: 22px;
+    margin: 0 0 10px;
+}
+
+.news .parts .parts-inner .btm .des{
+	color: #393838;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0 0 20px;
+}
+
+#content-section-3 .gdlr-item-title-wrapper .gdlr-flex-prev, #content-section-3 .gdlr-item-title-wrapper .gdlr-flex-next{
+border-radius: 4px;
+}
+
+
+.gdlr-hotel-room-info-new-style {
+    display: none;
+}
+
+
+#wpcf7-f4604-o1 .form-inner-dev{
+	display:table;
+	width:100%;
+	padding-top: 15px;
+	    max-width: 570px;
+    margin: auto;
+}
+
+#wpcf7-f4604-o1 .form-group{
+	display:table-cell;
+	width:100%;
+	vertical-align: top;
+}
+
+#wpcf7-f4604-o1 .form-group input{
+	width: 100%;
+    padding: 0px 15px;
+    height: 40px;
+    border: solid 1px #000;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 0;
+}
+
+#wpcf7-f4604-o1 button{
+	display:table-cell;
+	width:100%;
+	height:40px;
+	position: relative;
+    /* top: -1px; */
+	padding: 10px 30px;
+    background: #050505;
+    color: #fcfbfb;
+    text-decoration: none !important;
+    border-radius: 4px;
+    font-size: 14px;
+    text-transform: capitalize;
+    border: none;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#content-section-2 form{
+	margin:0px;
+	padding: 50px 0;
+}
+
+#content-section-2 form .gdlr-resv-datepicker ,
+#content-section-2 form .gdlr-resv-combobox{
+	width:16%;
+	padding: 17px 15px;
+    background: #fff;
+    border-right: solid 1px #dfdede;
+    height: 100px;
+}
+
+#content-section-2 form .gdlr-resv-datepicker .gdlr-reservation-field-title ,
+#content-section-2 form .gdlr-resv-combobox .gdlr-reservation-field-title{
+	margin: 0 0 10px;
+    color: #009444;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+#content-section-2 form .gdlr-resv-datepicker .gdlr-combobox-wrapper,
+#content-section-2 form .gdlr-resv-combobox .gdlr-combobox-wrapper{
+	margin:0px;
+}
+
+#content-section-2 form .gdlr-hotel-availability-submit{
+	width:20%;
+}
+
+#content-section-2 form .gdlr-hotel-availability-submit input[type="submit"]{
+	margin: 0;
+    background: #009444;
+    height: 100px;
+    padding: 37px 15px;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-style: initial;
+    border: none;
+}
+
+#content-section-2 .gdlr-parallax-wrapper{
+	padding: 0px;
+}
+
+#content-section-2 form .gdlr-resv-combobox .gdlr-combobox-wrapper select{
+	width:100%;
+	height:40px;
+	border: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    outline: none;
+    /*background: url(http://web1.kindlebit.com/clientdemo/Retreat/images/arrow.png);*/
+    background-repeat: no-repeat;
+    background-position: right 5px center;
+    background-size: 13px auto;
+    text-transform: capitalize;
+}
+
+.main-hdg .hdg{
+	font-family: 'Lato', sans-serif;
+}
+
+#about_left{
+	padding: 80px;
+    text-align: center;
+}
+
+#about_left .sb-hdg{
+	color: #1c1c1c;
+    font-size: 16px;
+    margin: 0 0 25px;
+	font-family: 'Lato', sans-serif;
+}
+
+#about_left .des{
+	color: #1c1c1c;
+	font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    margin: 0px;
+}
+
+#content-section-5 ,
+#content-section-6{
+	position:relative;
+}
+
+
+#about_right img , 
+#testimonial_left img{
+	height:0px;
+	width:0px;
+	opacity:0;
+	visibility:hidden;
+}
+
+#about_block .six.columns:nth-child(2){
+	position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 50%;
+    background: url('http://web1.kindlebit.com/DEVELOPMENT/bookmyhotels/wp-content/uploads/2018/01/appartment-1.png');
+    background-position: left center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#custom_testimonial .six.columns:nth-child(1){
+	position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    width: 50%;
+    background: url('http://web1.kindlebit.com/DEVELOPMENT/bookmyhotels/wp-content/uploads/2018/01/testimonial-image-150x150.png');
+    background-position: top right;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#custom_testimonial .six.columns:nth-child(2){
+	float:right;
+}
+
+#testimonial_right{
+	padding: 80px 80px 60px;
+    text-align: center;
+	position: relative;
+}
+
+#testimonial_right .testimonial-content.gdlr-skin-content p {
+    color: #1c1c1c;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0 0 20px;
+	font-family: 'Lato', sans-serif;
+}
+
+#testimonial_right .gdlr-testimonial-item.plain-style .testimonial-info:before{
+	display:none;
+}
+
+#testimonial_right .gdlr-testimonial-item .testimonial-author {
+    color: #009444;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px;
+	font-style: normal;
+	font-family: 'Lato', sans-serif;
+}
+
+#testimonial_right .gdlr-item-title-wrapper.gdlr-item {
+    position:static;
+	margin: 0;
+}
+
+#testimonial_right .gdlr-item-title-carousel{
+	position:absolute;
+	top:auto;
+	bottom: 0px;
+    left: 50%;
+    width: 100px;
+    margin-left: -50px;
+}
+
+#testimonial_right .gdlr-item-title-carousel i{
+	border-radius:4px;
+}
+
+#testimonial_right h3.gdlr-item-title.gdlr-skin-title.gdlr-skin-border{
+	margin: 0px 0px 35px;
+    font-size: 28px;
+    color: #000;
+    font-weight: 500;
+	font-family: 'Lato', sans-serif;
+	letter-spacing: 0;
+}
+
+.hotelmaster-new-style .gdlr-medium-room-new .gdlr-room-title{
+	margin-top:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:991px){
+	
+	#about_block .six.columns:nth-child(2) {
+		position: static;
+		background-image: none;
+		width: 50%;
+		padding: 80px;
+	}
+	
+	#about_right img{
+		height:100%;
+		width:100%;
+		opacity:1;
+		visibility:visible;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+@media (max-width:767px){
+	
+	#about_block .six.columns:nth-child(2) {
+		width: 100%;
+	}
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+.blog-item-wrapper {
+ padding-top:55px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
